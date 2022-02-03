@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://huangmayor0905.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-02-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://huangmayor0905.github.io/2022/01/31/article/</loc>
+    
+    <lastmod>2022-02-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://huangmayor0905.github.io/about/index.html</loc>
+    
+    <lastmod>2022-02-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://huangmayor0905.github.io/2022/01/31/hello-world/</loc>
     
     <lastmod>2022-02-03</lastmod>
     
@@ -20,36 +47,9 @@
   </url>
   
   <url>
-    <loc>http://huangmayor0905.github.io/categories/index.html</loc>
-    
-    <lastmod>2022-02-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://huangmayor0905.github.io/tags/index.html</loc>
     
     <lastmod>2022-02-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://huangmayor0905.github.io/2022/01/31/article/</loc>
-    
-    <lastmod>2022-02-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://huangmayor0905.github.io/2022/01/31/hello-world/</loc>
-    
-    <lastmod>2022-01-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -63,6 +63,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://huangmayor0905.github.io/tags/%E5%AE%98%E6%96%B9%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2022-02-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://huangmayor0905.github.io/tags/test/</loc>
