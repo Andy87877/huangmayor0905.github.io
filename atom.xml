@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>學 code 的平凡高中生</title>
   
-  <subtitle>當我走在學習的道路上，無畏風雨</subtitle>
+  <subtitle>部落格好難弄</subtitle>
   <link href="http://huangmayor0905.github.io/atom.xml" rel="self"/>
   
   <link href="http://huangmayor0905.github.io/"/>
-  <updated>2022-02-03T16:57:46.520Z</updated>
+  <updated>2022-02-05T07:41:17.474Z</updated>
   <id>http://huangmayor0905.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>這是我的第一篇文章</title>
-    <link href="http://huangmayor0905.github.io/2022/01/31/article/"/>
-    <id>http://huangmayor0905.github.io/2022/01/31/article/</id>
+    <link href="http://huangmayor0905.github.io/article/"/>
+    <id>http://huangmayor0905.github.io/article/</id>
     <published>2022-01-30T18:34:50.000Z</published>
-    <updated>2022-02-03T16:57:46.520Z</updated>
+    <updated>2022-02-05T07:41:17.474Z</updated>
     
     <content type="html"><![CDATA[<p>hi~ 我是國國，身為高一的我想要深入探索程式世界，也歡迎大家與我分享、交流。</p>]]></content>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://huangmayor0905.github.io/2022/01/31/hello-world/"/>
-    <id>http://huangmayor0905.github.io/2022/01/31/hello-world/</id>
+    <link href="http://huangmayor0905.github.io/hello-world/"/>
+    <id>http://huangmayor0905.github.io/hello-world/</id>
     <published>2022-01-30T17:35:56.697Z</published>
     <updated>2022-02-03T15:25:28.436Z</updated>
     
