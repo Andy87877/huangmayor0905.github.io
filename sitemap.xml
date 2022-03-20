@@ -4,7 +4,16 @@
   <url>
     <loc>http://huangmayor0905.github.io/about/index.html</loc>
     
-    <lastmod>2022-02-09</lastmod>
+    <lastmod>2022-03-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://huangmayor0905.github.io/hello-world/</loc>
+    
+    <lastmod>2022-03-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +22,7 @@
   <url>
     <loc>http://huangmayor0905.github.io/article/</loc>
     
-    <lastmod>2022-02-05</lastmod>
+    <lastmod>2022-03-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>http://huangmayor0905.github.io/categories/index.html</loc>
-    
-    <lastmod>2022-02-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://huangmayor0905.github.io/hello-world/</loc>
     
     <lastmod>2022-02-03</lastmod>
     
@@ -58,22 +58,22 @@
 
   <url>
     <loc>http://huangmayor0905.github.io/</loc>
-    <lastmod>2022-03-19</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://huangmayor0905.github.io/tags/%E5%AE%98%E6%96%B9%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2022-03-19</lastmod>
+    <loc>http://huangmayor0905.github.io/tags/test/</loc>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://huangmayor0905.github.io/tags/test/</loc>
-    <lastmod>2022-03-19</lastmod>
+    <loc>http://huangmayor0905.github.io/tags/%E5%AE%98%E6%96%B9%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
