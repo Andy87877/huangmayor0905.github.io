@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://huangmayor0905.github.io/cpp_compiler/</loc>
+    
+    <lastmod>2022-03-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://huangmayor0905.github.io/about/index.html</loc>
     
     <lastmod>2022-03-20</lastmod>
@@ -65,7 +74,14 @@
 
   
   <url>
-    <loc>http://huangmayor0905.github.io/tags/test/</loc>
+    <loc>http://huangmayor0905.github.io/tags/C-C/</loc>
+    <lastmod>2022-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://huangmayor0905.github.io/tags/%E7%B7%A8%E8%AD%AF%E5%99%A8/</loc>
     <lastmod>2022-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -78,6 +94,27 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://huangmayor0905.github.io/tags/test/</loc>
+    <lastmod>2022-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://huangmayor0905.github.io/categories/computer-science/</loc>
+    <lastmod>2022-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://huangmayor0905.github.io/categories/computer-science/cpp/</loc>
+    <lastmod>2022-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
