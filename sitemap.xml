@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://huangmayor0905.github.io/cpp_compiler/</loc>
+    <loc>http://huangmayor0905.github.io/meeting-hello-world/</loc>
     
     <lastmod>2022-03-26</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://huangmayor0905.github.io/meeting-hello-world/</loc>
+    <loc>http://huangmayor0905.github.io/cpp_compiler/</loc>
     
     <lastmod>2022-03-26</lastmod>
     
@@ -90,13 +90,6 @@
   </url>
   
   <url>
-    <loc>http://huangmayor0905.github.io/tags/%E5%AE%98%E6%96%B9%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2022-03-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://huangmayor0905.github.io/tags/C-C/</loc>
     <lastmod>2022-03-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -105,6 +98,13 @@
   
   <url>
     <loc>http://huangmayor0905.github.io/tags/%E7%B7%A8%E8%AD%AF%E5%99%A8/</loc>
+    <lastmod>2022-03-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://huangmayor0905.github.io/tags/%E5%AE%98%E6%96%B9%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2022-03-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
